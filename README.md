@@ -1,3 +1,5 @@
 # postman-30-days-for-developer
 This repository contains my solution for postman 30 days of developer challenge.
-my solution workspace : 9fee724e-d71e-4744-b0c9-f579b6bba492
+I will soon update this repository with the procedures and solutions.
+<img width="398" height="398" alt="image" src="https://github.com/user-attachments/assets/dc03b67e-8a8f-4733-b816-650cdf58ea4c" />
+
